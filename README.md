@@ -1,3 +1,3 @@
 # sports_data_analytics
 
-A data visualization project to plot various graphs in the topic of FIFA World Cup.
+An individual project to plot various graphs in the topic of FIFA World Cup. This is my second project with R (tidyverse). 
